@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="306px" viewBox="0 0 200 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>image-placeholder2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0AA1F8" offset="0%"></stop>
+            <stop stop-color="#1124FF" stop-opacity="0.481370192" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="200" height="305.952381" rx="4"></rect>
+        <filter x="-2.5%" y="-1.6%" width="107.0%" height="104.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.133333333   0 0 0 0 0.133333333   0 0 0 0 0.133333333  0 0 0 0.7 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="image-placeholder2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Image-placeholder">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="ic-baseline-panorama" transform="translate(79.000000, 131.000000)" fill-rule="nonzero">
+                <g id="Icon" transform="translate(2.000000, 7.000000)" fill="#333333">
+                    <path d="M39,25.375 L39,3.625 C39,1.63125 37.4045455,0 35.4545455,0 L3.54545455,0 C1.59545455,0 0,1.63125 0,3.625 L0,25.375 C0,27.36875 1.59545455,29 3.54545455,29 L35.4545455,29 C37.4045455,29 39,27.36875 39,25.375 Z M13.2954545,15.40625 L17.7272727,20.861875 L23.9318182,12.6875 L31.9090909,23.5625 L7.09090909,23.5625 L13.2954545,15.40625 Z" id="Icon-Shape"></path>
+                </g>
+                <rect id="ViewBox" x="0" y="0" width="43" height="43"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
